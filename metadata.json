@@ -1,0 +1,10 @@
+{
+  "name": "UniPark",
+  "description": "QR-based smart parking location management system with 14-hour memory and interactive lot navigator.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
